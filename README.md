@@ -6,5 +6,5 @@ Here i will add python projects such that will make me good learner and also thi
 #List of Projects completed till
 
 
--->Cafe management system
--->Link shortner 
+\n-->Cafe management system
+\n-->Link shortner 
