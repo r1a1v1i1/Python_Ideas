@@ -8,3 +8,5 @@ Here i will add python projects such that will make me good learner and also thi
 1.Cafe management system
 
 2.Link shortner 
+
+3.Guess the number(1,99)
